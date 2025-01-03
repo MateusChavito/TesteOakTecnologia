@@ -46,5 +46,6 @@ Rodando via IDE:
 Clique com o botão direito na classe de teste `ProdutoControllerTest`.
 Selecione a opção "Run" para executar os testes diretamente na sua IDE.
 
-Optei por usar o modelo MVC
-Créditos: Utilização da IA (ChatGPT) para a conclusão do projeto
+## - Optei por usar o modelo MVC
+
+## Créditos: Utilização da IA (ChatGPT) para a conclusão do projeto"
